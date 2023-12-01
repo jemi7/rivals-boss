@@ -1,0 +1,15 @@
+{
+  "name": "rivals-boss",
+  "version": "1.0.0",
+  "description": "Tokyo Xtreme Racer 3 Bosses Lists",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/jemi7/rivals-boss"
+  },
+  "author": "Jemil Lukmanulhakim",
+  "license": "ISC"
+}
